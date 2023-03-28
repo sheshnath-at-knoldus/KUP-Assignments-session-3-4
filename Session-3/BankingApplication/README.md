@@ -1,4 +1,4 @@
-BAnking Application
+Banking Application
 
 
 Create a banking application using Map[Long, Double] 
